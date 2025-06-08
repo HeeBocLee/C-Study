@@ -1,0 +1,96 @@
+C:\Users\11496\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\11496\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\11496\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\11496\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\11496\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\11496\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\11496\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\11496\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\11496\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\11496\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\SuitLee\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\SuitLee\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\SuitLee\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\SuitLee\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\SuitLee\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\SuitLee\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\SuitLee\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\SuitLee\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\SuitLee\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\SuitLee\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Shared\250523\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Shared\250523\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Shared\250523\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Shared\250523\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Shared\250523\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Shared\250523\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Shared\250523\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Shared\250523\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Shared\250523\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\250523\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\250523\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\250523\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\250523\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\250523\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\250523\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\250523\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\250523\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\250523\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\250523\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\250523\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\250523\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\250523\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\250523\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\250523\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\250523\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\250523\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\250523\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\250523\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\250523\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\250523\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\250523\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\250523\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\250523\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\250523\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\250523\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\250523\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\250523\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+D:\SuitLee\DeskTop\src\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\SuitLee\DeskTop\src\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\SuitLee\DeskTop\src\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\SuitLee\DeskTop\src\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\SuitLee\DeskTop\src\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\SuitLee\DeskTop\src\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\SuitLee\DeskTop\src\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\SuitLee\DeskTop\src\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\SuitLee\DeskTop\src\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\toptec\Desktop\src\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\toptec\Desktop\src\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\toptec\Desktop\src\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\toptec\Desktop\src\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\toptec\Desktop\src\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\toptec\Desktop\src\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\toptec\Desktop\src\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\toptec\Desktop\src\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\toptec\Desktop\src\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+D:\SuitLee\DeskTop\250524\src\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\SuitLee\DeskTop\250524\src\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\SuitLee\DeskTop\250524\src\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\SuitLee\DeskTop\250524\src\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\SuitLee\DeskTop\250524\src\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\SuitLee\DeskTop\250524\src\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\SuitLee\DeskTop\250524\src\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\SuitLee\DeskTop\250524\src\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\SuitLee\DeskTop\250524\src\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+D:\SuitLee\DeskTop\250524\src\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.dlgINIFileTest.resources
+D:\SuitLee\DeskTop\src\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.dlgINIFileTest.resources
+C:\Users\SuitLee\source\repos\ini & grd\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\SuitLee\source\repos\ini & grd\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\SuitLee\source\repos\ini & grd\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\SuitLee\source\repos\ini & grd\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\SuitLee\source\repos\ini & grd\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.dlgINIFileTest.resources
+C:\Users\SuitLee\source\repos\ini & grd\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\SuitLee\source\repos\ini & grd\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\SuitLee\source\repos\ini & grd\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\SuitLee\source\repos\ini & grd\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\SuitLee\source\repos\ini & grd\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
