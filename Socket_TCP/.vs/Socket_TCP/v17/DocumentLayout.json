@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SuitLee\\source\\repos\\Socket_TCP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF2F5C5-4149-445A-8F61-F0BAD913C92C}|Socket_TCP\\Socket_TCP.csproj|c:\\users\\suitlee\\source\\repos\\socket_tcp\\socket_tcp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF2F5C5-4149-445A-8F61-F0BAD913C92C}|Socket_TCP\\Socket_TCP.csproj|solutionrelative:socket_tcp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF2F5C5-4149-445A-8F61-F0BAD913C92C}|Socket_TCP\\Socket_TCP.csproj|c:\\users\\suitlee\\source\\repos\\socket_tcp\\socket_tcp\\ucpanel\\uctcp_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF2F5C5-4149-445A-8F61-F0BAD913C92C}|Socket_TCP\\Socket_TCP.csproj|solutionrelative:socket_tcp\\ucpanel\\uctcp_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF2F5C5-4149-445A-8F61-F0BAD913C92C}|Socket_TCP\\Socket_TCP.csproj|c:\\users\\suitlee\\source\\repos\\socket_tcp\\socket_tcp\\ucpanel\\uctcp_server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF2F5C5-4149-445A-8F61-F0BAD913C92C}|Socket_TCP\\Socket_TCP.csproj|solutionrelative:socket_tcp\\ucpanel\\uctcp_server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF2F5C5-4149-445A-8F61-F0BAD913C92C}|Socket_TCP\\Socket_TCP.csproj|C:\\Users\\SuitLee\\source\\repos\\Socket_TCP\\socket_tcp\\ucpanel\\uctcp_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEF2F5C5-4149-445A-8F61-F0BAD913C92C}|Socket_TCP\\Socket_TCP.csproj|solutionrelative:socket_tcp\\ucpanel\\uctcp_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF2F5C5-4149-445A-8F61-F0BAD913C92C}|Socket_TCP\\Socket_TCP.csproj|C:\\Users\\SuitLee\\source\\repos\\Socket_TCP\\socket_tcp\\ucpanel\\uctcp_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEF2F5C5-4149-445A-8F61-F0BAD913C92C}|Socket_TCP\\Socket_TCP.csproj|solutionrelative:socket_tcp\\ucpanel\\uctcp_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF2F5C5-4149-445A-8F61-F0BAD913C92C}|Socket_TCP\\Socket_TCP.csproj|c:\\users\\suitlee\\source\\repos\\socket_tcp\\socket_tcp\\ucpanel\\uctcp_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF2F5C5-4149-445A-8F61-F0BAD913C92C}|Socket_TCP\\Socket_TCP.csproj|solutionrelative:socket_tcp\\ucpanel\\uctcp_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF2F5C5-4149-445A-8F61-F0BAD913C92C}|Socket_TCP\\Socket_TCP.csproj|C:\\Users\\SuitLee\\source\\repos\\Socket_TCP\\socket_tcp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEF2F5C5-4149-445A-8F61-F0BAD913C92C}|Socket_TCP\\Socket_TCP.csproj|solutionrelative:socket_tcp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ucTCP_Server.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SuitLee\\source\\repos\\Socket_TCP\\Socket_TCP\\ucPanel\\ucTCP_Server.Designer.cs",
+              "RelativeDocumentMoniker": "Socket_TCP\\ucPanel\\ucTCP_Server.Designer.cs",
+              "ToolTip": "C:\\Users\\SuitLee\\source\\repos\\Socket_TCP\\Socket_TCP\\ucPanel\\ucTCP_Server.Designer.cs",
+              "RelativeToolTip": "Socket_TCP\\ucPanel\\ucTCP_Server.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:39:31.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\SuitLee\\source\\repos\\Socket_TCP\\Socket_TCP\\Form1.cs",
+              "RelativeDocumentMoniker": "Socket_TCP\\Form1.cs",
+              "ToolTip": "C:\\Users\\SuitLee\\source\\repos\\Socket_TCP\\Socket_TCP\\Form1.cs",
+              "RelativeToolTip": "Socket_TCP\\Form1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:36:25.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\SuitLee\\source\\repos\\Socket_TCP\\Socket_TCP\\Form1.cs",
+              "RelativeDocumentMoniker": "Socket_TCP\\Form1.cs",
+              "ToolTip": "C:\\Users\\SuitLee\\source\\repos\\Socket_TCP\\Socket_TCP\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Socket_TCP\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:23:16.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ucTCP_Server.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SuitLee\\source\\repos\\Socket_TCP\\Socket_TCP\\ucPanel\\ucTCP_Server.cs",
+              "RelativeDocumentMoniker": "Socket_TCP\\ucPanel\\ucTCP_Server.cs",
+              "ToolTip": "C:\\Users\\SuitLee\\source\\repos\\Socket_TCP\\Socket_TCP\\ucPanel\\ucTCP_Server.cs [Design]",
+              "RelativeToolTip": "Socket_TCP\\ucPanel\\ucTCP_Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:20:37.233Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ucTCP_Client.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\SuitLee\\source\\repos\\Socket_TCP\\Socket_TCP\\ucPanel\\ucTCP_Client.cs",
+              "RelativeDocumentMoniker": "Socket_TCP\\ucPanel\\ucTCP_Client.cs",
+              "ToolTip": "C:\\Users\\SuitLee\\source\\repos\\Socket_TCP\\Socket_TCP\\ucPanel\\ucTCP_Client.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Socket_TCP\\ucPanel\\ucTCP_Client.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:20:36.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ucTCP_Client.cs",
+              "DocumentMoniker": "C:\\Users\\SuitLee\\source\\repos\\Socket_TCP\\Socket_TCP\\ucPanel\\ucTCP_Client.cs",
+              "RelativeDocumentMoniker": "Socket_TCP\\ucPanel\\ucTCP_Client.cs",
+              "ToolTip": "C:\\Users\\SuitLee\\source\\repos\\Socket_TCP\\Socket_TCP\\ucPanel\\ucTCP_Client.cs",
+              "RelativeToolTip": "Socket_TCP\\ucPanel\\ucTCP_Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:20:01.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ucTCP_Server.cs",
+              "DocumentMoniker": "C:\\Users\\SuitLee\\source\\repos\\Socket_TCP\\Socket_TCP\\ucPanel\\ucTCP_Server.cs",
+              "RelativeDocumentMoniker": "Socket_TCP\\ucPanel\\ucTCP_Server.cs",
+              "ToolTip": "C:\\Users\\SuitLee\\source\\repos\\Socket_TCP\\Socket_TCP\\ucPanel\\ucTCP_Server.cs",
+              "RelativeToolTip": "Socket_TCP\\ucPanel\\ucTCP_Server.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAgwMIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:19:59.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
