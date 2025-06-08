@@ -1,0 +1,16 @@
+C:\Users\SuitLee\source\repos\iniFileTest\iniFileTest\bin\Debug\net8.0-windows\iniFileTest.exe
+C:\Users\SuitLee\source\repos\iniFileTest\iniFileTest\bin\Debug\net8.0-windows\iniFileTest.deps.json
+C:\Users\SuitLee\source\repos\iniFileTest\iniFileTest\bin\Debug\net8.0-windows\iniFileTest.runtimeconfig.json
+C:\Users\SuitLee\source\repos\iniFileTest\iniFileTest\bin\Debug\net8.0-windows\iniFileTest.dll
+C:\Users\SuitLee\source\repos\iniFileTest\iniFileTest\bin\Debug\net8.0-windows\iniFileTest.pdb
+C:\Users\SuitLee\source\repos\iniFileTest\iniFileTest\obj\Debug\net8.0-windows\iniFileTest.Form1.resources
+C:\Users\SuitLee\source\repos\iniFileTest\iniFileTest\obj\Debug\net8.0-windows\iniFileTest.csproj.GenerateResource.cache
+C:\Users\SuitLee\source\repos\iniFileTest\iniFileTest\obj\Debug\net8.0-windows\iniFileTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SuitLee\source\repos\iniFileTest\iniFileTest\obj\Debug\net8.0-windows\iniFileTest.AssemblyInfoInputs.cache
+C:\Users\SuitLee\source\repos\iniFileTest\iniFileTest\obj\Debug\net8.0-windows\iniFileTest.AssemblyInfo.cs
+C:\Users\SuitLee\source\repos\iniFileTest\iniFileTest\obj\Debug\net8.0-windows\iniFileTest.csproj.CoreCompileInputs.cache
+C:\Users\SuitLee\source\repos\iniFileTest\iniFileTest\obj\Debug\net8.0-windows\iniFileTest.dll
+C:\Users\SuitLee\source\repos\iniFileTest\iniFileTest\obj\Debug\net8.0-windows\refint\iniFileTest.dll
+C:\Users\SuitLee\source\repos\iniFileTest\iniFileTest\obj\Debug\net8.0-windows\iniFileTest.pdb
+C:\Users\SuitLee\source\repos\iniFileTest\iniFileTest\obj\Debug\net8.0-windows\iniFileTest.genruntimeconfig.cache
+C:\Users\SuitLee\source\repos\iniFileTest\iniFileTest\obj\Debug\net8.0-windows\ref\iniFileTest.dll
