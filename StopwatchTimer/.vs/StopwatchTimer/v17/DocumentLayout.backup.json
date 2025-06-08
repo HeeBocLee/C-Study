@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SuitLee\\source\\repos\\StopwatchTimer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50E92BB8-13AC-42F4-87E1-9E8888721C3C}|StopwatchTimer\\StopwatchTimer.csproj|c:\\users\\suitlee\\source\\repos\\stopwatchtimer\\stopwatchtimer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E92BB8-13AC-42F4-87E1-9E8888721C3C}|StopwatchTimer\\StopwatchTimer.csproj|solutionrelative:stopwatchtimer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E92BB8-13AC-42F4-87E1-9E8888721C3C}|StopwatchTimer\\StopwatchTimer.csproj|C:\\Users\\SuitLee\\source\\repos\\StopwatchTimer\\stopwatchtimer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50E92BB8-13AC-42F4-87E1-9E8888721C3C}|StopwatchTimer\\StopwatchTimer.csproj|solutionrelative:stopwatchtimer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\SuitLee\\source\\repos\\StopwatchTimer\\StopwatchTimer\\Form1.cs",
+              "RelativeDocumentMoniker": "StopwatchTimer\\Form1.cs",
+              "ToolTip": "C:\\Users\\SuitLee\\source\\repos\\StopwatchTimer\\StopwatchTimer\\Form1.cs [\u8BBE\u8BA1]*",
+              "RelativeToolTip": "StopwatchTimer\\Form1.cs [\u8BBE\u8BA1]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T17:19:10.389Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\SuitLee\\source\\repos\\StopwatchTimer\\StopwatchTimer\\Form1.cs",
+              "RelativeDocumentMoniker": "StopwatchTimer\\Form1.cs",
+              "ToolTip": "C:\\Users\\SuitLee\\source\\repos\\StopwatchTimer\\StopwatchTimer\\Form1.cs*",
+              "RelativeToolTip": "StopwatchTimer\\Form1.cs*",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAwEoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T14:20:25.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

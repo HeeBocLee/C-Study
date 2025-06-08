@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jFHMEHwruJ8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SuitLee\\source\\repos\\StopwatchTimer\\StopwatchTimer\\StopwatchTimer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SuitLee\\.nuget\\packages\\costura.fody\\6.0.0\\costura.fody.6.0.0.nupkg.sha512",
+    "C:\\Users\\SuitLee\\.nuget\\packages\\fody\\6.9.2\\fody.6.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}
